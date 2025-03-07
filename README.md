@@ -382,6 +382,3 @@ Eco-system  for a car dealer based on a microservices architecture is open sourc
 
 ### Author
 Dalayi Yuvaraju
-
-* [Cherara Reddah Linkedin](https://www.linkedin.com/in/cherarareddah/)
-* [Cherara Reddah Bog](https://rcherara.ca)
